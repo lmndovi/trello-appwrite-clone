@@ -1,0 +1,5 @@
+colors:
+{ 
+    trelloBlue= #0055D1,
+    grey = #F5F6F8,
+    }
